@@ -1,0 +1,13 @@
+﻿C:\program files\microsoft visual studio\2022\community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  lib_parallax_scroll.cc
+C:\Users\metro\source\repos\lib_parallax_effect_dev\SourceCode\Header\LibParallexScroll.h(53,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\metro\source\repos\lib_parallax_effect_dev\SourceCode\Src\lib_parallax_scroll.cc(68,21): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\metro\source\repos\lib_parallax_effect_dev\SourceCode\Src\lib_parallax_scroll.cc(68,47): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\metro\source\repos\lib_parallax_effect_dev\SourceCode\Src\lib_parallax_scroll.cc(68,73): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\metro\source\repos\lib_parallax_effect_dev\SourceCode\Src\lib_parallax_scroll.cc(68,100): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\metro\source\repos\lib_parallax_effect_dev\SourceCode\Src\lib_parallax_scroll.cc(313,18): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+LessonX.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+CommonClass_2015.lib(CommonClass.obj) : warning LNK4099: PDB 'CommonClass_2015.pdb' was not found with 'CommonClass_2015.lib(CommonClass.obj)' or at 'C:\Users\metro\source\repos\lib_parallax_effect_dev\Bin\CommonClass_2015.pdb'; linking object as if no debug info
+  VCProject2015.vcxproj -> C:\Users\metro\source\repos\lib_parallax_effect_dev\Bin\Game.exe
